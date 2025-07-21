@@ -4,4 +4,4 @@ This is my personal portfolio website showcasing my projects, skills, and achiev
 
 🔗 **Live Demo:** [View Portfolio](https://chetlasrijith.github.io/Portfolio/)
 
-<img src="preview.png" width="500" alt="Portfolio Screenshot">
+<img src="images/blaz.JPG" width="500" alt="Portfolio Screenshot">
